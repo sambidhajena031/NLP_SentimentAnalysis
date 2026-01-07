@@ -1,1 +1,1 @@
-# NLP_SentimentAnalysis
+# AI4ICPSCourse
